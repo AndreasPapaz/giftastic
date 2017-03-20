@@ -1,0 +1,50 @@
+body {
+	background-color: #424242;
+}
+
+* {
+	font-family: 'Baloo Bhaina', cursive;
+}
+
+p {
+	color: black;
+}
+
+.logoText {
+	color: white;
+	font-size: 48px;
+}
+
+.image-area {
+	display: inline-block;
+	margin-right: 60px;
+}
+
+.button-container {
+	
+}
+
+.btn {
+	margin: 3px;
+}
+
+.header {
+	background-color: black;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.ratingGrade {
+	margin: 2px;
+}
+
+.gifDiv {
+	background-color: white;
+	display: inline-block;
+	margin: 1px;
+	border: solid 1px black;
+}
+
+.gifDiv p {
+	text-align: center;
+}
