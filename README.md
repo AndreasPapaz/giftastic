@@ -1,2 +1,2 @@
 # giftastic
-using the gify api to create a small web app
+Learning how to make API $.ajax "GET" requests with the giphy api.
